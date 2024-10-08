@@ -49,7 +49,3 @@ Contributions are welcome! If you want to contribute to this project, feel free 
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request once you're done.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
